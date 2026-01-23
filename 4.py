@@ -1,0 +1,6 @@
+s1 = "{}{}{}".format('A','B','C')
+print(s1)
+s1 = "{1}{0}{2}".format('A','B','C')
+print(s1)
+s1 = "{a}{c}{b}".format(a = 'A',b = 'B',c ='C')
+print(s1)
