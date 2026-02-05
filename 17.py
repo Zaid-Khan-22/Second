@@ -1,0 +1,5 @@
+Num=set([10,20,30,40,50]) 
+Num.add(60) 
+print(Num)
+Num.discard(50) 
+print(Num)
